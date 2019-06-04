@@ -1,0 +1,6 @@
+classes = 1
+train  = /SSD2/WIDER/darknet/VOCdevkit/2019_train.txt
+valid  = /SSD2/WIDER/darknet/VOCdevkit/2019_val.txt
+names = data/voc_face.names
+backup = backup
+
